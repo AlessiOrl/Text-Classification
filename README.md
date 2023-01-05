@@ -2,6 +2,8 @@
 
 Before reading this readme please read the provided slides `NLP_2022-Bonus_Exercise_1.pdf`.
 
+N.B. Dataset and checkpoint is omitted for confidentiality
+
 ## Structure
 
 Folder structure:
